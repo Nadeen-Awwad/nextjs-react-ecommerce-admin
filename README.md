@@ -14,6 +14,7 @@ pnpm dev
 ![ecommerceApp](https://github.com/user-attachments/assets/16bdb47b-5338-4d04-a27a-be89501d636c)
 
 ```
+![ecommerceApp](https://github.com/user-attachments/assets/1b0f730d-3a9c-4f83-83cc-92ff71e47a67)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
