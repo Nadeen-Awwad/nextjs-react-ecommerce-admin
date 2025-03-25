@@ -10,6 +10,9 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+
+![ecommerceApp](https://github.com/user-attachments/assets/16bdb47b-5338-4d04-a27a-be89501d636c)
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
